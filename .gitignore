@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+*.mp4
+*.mov
+*.zip
+.godot/
+build/

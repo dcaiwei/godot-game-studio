@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot 游戏制作工坊"
+  short_description: "从参考图到可玩版本，自主制作中文游戏并检查玩法、动画、音效与导出质量"
+  default_prompt: "使用 $godot-game-studio，根据我的需求和参考资料制作或继续完善游戏，完成实际运行、问题修复与可玩版本交付。"
