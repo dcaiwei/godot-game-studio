@@ -6,11 +6,11 @@
 
 ## 游戏 Demo
 
-[![点击观看或下载完整游戏演示](docs/images/demo-day.jpg)](https://github.com/dcaiwei/godot-game-studio/releases/download/v0.1.0/demo-web.mp4)
+![星汐物语最新演示画面](docs/images/demo-day.jpg)
 
-[下载原始演示视频](https://github.com/dcaiwei/godot-game-studio/releases/download/v0.1.0/demo-original.mp4) · [查看发布包](https://github.com/dcaiwei/godot-game-studio/releases/tag/v0.1.0)
+**视频更新中**：新版录屏的网页播放版已完成处理，在线上传尚未完成。下方截图取自新版视频。
 
-演示来自《星汐物语》开发项目，完整时长约 **2 分 26 秒**。首页版本经过压缩，保留完整画面、时长与原声音轨；原始录屏可在 Releases 下载。
+演示来自《星汐物语》开发项目，采用 **2026 年 9 月 22 日更新的视频**，完整时长约 **2 分 22 秒**。网页播放版经过压缩，保留完整画面、时长与原声音轨。
 
 这段视频展示了整理本 Skill 所依据的游戏项目。Skill 由制作过程、用户反馈和原始设计要求提炼而来，不代表已经通过“仅调用 Skill 就从零完成同等游戏”的独立端到端评测。本仓库提供 Skill 与演示资料，游戏工程不包含在安装包中。
 
