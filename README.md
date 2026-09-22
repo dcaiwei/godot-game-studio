@@ -10,8 +10,6 @@ https://github.com/user-attachments/assets/9db74129-0025-4ed1-b1a7-b595018ba29a
 
 [单独打开演示视频](https://github.com/user-attachments/assets/9db74129-0025-4ed1-b1a7-b595018ba29a) · [下载 Skill 发布包](https://github.com/dcaiwei/godot-game-studio/releases/tag/v0.1.0)
 
-演示来自《星汐物语》开发项目，采用 **2026 年 9 月 22 日更新的视频**，完整时长约 **2 分 22 秒**。网页播放版经过压缩，保留完整画面、时长与原声音轨。
-
 这段视频展示了整理本 Skill 所依据的游戏项目。Skill 由制作过程、用户反馈和原始设计要求提炼而来，不代表已经通过“仅调用 Skill 就从零完成同等游戏”的独立端到端评测。本仓库提供 Skill 与演示资料，游戏工程不包含在安装包中。
 
 <details>
