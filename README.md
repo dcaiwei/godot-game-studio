@@ -6,9 +6,9 @@
 
 ## 游戏 Demo
 
-![星汐物语最新演示画面](docs/images/demo-day.jpg)
+https://github.com/user-attachments/assets/9db74129-0025-4ed1-b1a7-b595018ba29a
 
-**视频更新中**：新版录屏的网页播放版已完成处理，在线上传尚未完成。下方截图取自新版视频。
+[单独打开演示视频](https://github.com/user-attachments/assets/9db74129-0025-4ed1-b1a7-b595018ba29a) · [下载 Skill 发布包](https://github.com/dcaiwei/godot-game-studio/releases/tag/v0.1.0)
 
 演示来自《星汐物语》开发项目，采用 **2026 年 9 月 22 日更新的视频**，完整时长约 **2 分 22 秒**。网页播放版经过压缩，保留完整画面、时长与原声音轨。
 
